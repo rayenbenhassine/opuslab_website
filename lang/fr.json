@@ -1,0 +1,384 @@
+{
+  "header": {
+    "item1": "Accueil",
+    "item2": "Formations",
+    "item3": "A propos",
+    "item4": "Equipe",
+    "item5": "Opus Business",
+    "item6": "Contact",
+    "item7": "INSCRIVEZ-VOUS"
+  },
+  "accueil": {
+    "banner": {
+      "sm": {
+        "title1": "NOUS VOUS GUIDONS",
+        "title2": "VERS VOTRE SUCCÈS"
+      },
+      "bigTitle": "NOUS VOUS GUIDONS VERS VOTRE",
+      "styledWord": "SUCCÈS",
+      "mediumTitle": "100% DIGITALE",
+      "littleTitle": "POUR UNE GÉNÉRATION",
+      "button": "INSCRIVEZ-VOUS"
+    },
+    "evolveSkills": {
+      "title": "EVOLUEZ VOS",
+      "styledWord": "SKILLS",
+      "rectangle1": {
+        "title": "DEVELOPPEMENT WEB ",
+        "nbHours": "40H DE SUIVI CONTINU"
+      },
+      "rectangle2": {
+        "title": "REACT JS ",
+        "nbHours": "40H DE SUIVI CONTINU"
+      },
+      "rectangle3": {
+        "title": "NODE JS ",
+        "nbHours": "55H DE SUIVI CONTINU"
+      },
+      "rectangle4": {
+        "title": "GRAPHIC DESIGN",
+        "nbHours": "40H DE SUIVI CONTINU"
+      },
+      "rectangle5": {
+        "title": "UI UX DESIGN",
+        "nbHours": "40H DE SUIVI CONTINU"
+      },
+      "rectangle6": {
+        "title": "MARKETING DIGITAL ",
+        "nbHours": "40H DE SUIVI CONTINU"
+      },
+      "button": "DECOUVREZ NOS FORMATIONS"
+    },
+    "whyOpus": {
+      "title": "POURQUOI OPUS",
+      "card1": {
+        "title": "NOUS FAISONS TOUT POUR VOTRE EVOLUTION",
+        "description": "à TRAVERS NOTRE SYSTEME DE SUIVI CONTINU ET PERSONALISE NOUS CONRETISONS VOTRE EVOLUTION"
+      },
+      "card2": {
+        "title": "NOUS VOUS GUIDONS VERS LE SUCCÈS",
+        "description": "A TRAVERS L’ACCES ILLIMITÉ À L’INSCTRUCTEUR VOUS AVEZ TOUJOURS LA POSSIBILITÉ D’AMÉLIORER VOS TRAVAUX"
+      },
+      "card3": {
+        "title": "PAS A PAS VERS LA VIE ",
+        "description": "NOUS VOUS ENCOURAGONS A TRAVAILLER SUR DES PROJETS QUI VOUS RENDENT EFFICACES ET QUI VOUS POUSSENT ENCORE PLUS VERS LA VIE PROFESSIONNELLE"
+      },
+      "button": "DECOUVREZ OPUS"
+    },
+    "ourOpusiens": {
+      "title": "NOS OPUCIENS",
+      "text": "Un paragraphe est une section de texte en prose vouée au développement d'un point particulier souvent au moyen de plusieurs phrases, dans la continuité du précédent et du suivant. Sur le plan typographique, le paragraphe est compris entre deux alinéas, qui s'analysent aussi comme une « ponctuation blanche ",
+      "status": "Etudiante graphic design",
+      "name": "INES ABIDI",
+      "button": " REJOIGNEZ-NOUS"
+    },
+    "Dragons": {
+      "title": "NOS DRAGONS",
+      "text": "Nous tenons toujours à vous rapprocher de la vie professionnelle à travers nos tasks et nos conseils. Nous tenons aussi à toujours partager les bon profils avec nos partenaires clés pour des demandes d’embauche ou bien de stage",
+      "status": "INSTRUCTEUR GRAPHIC DESIGN",
+      "name": "Siwar gharbi",
+      "button": "DEVENIR INSTRUCTEUR"
+    },
+    "team": {
+      "title": "LE TEAM",
+      "button": "REJOINEZ-NOUS"
+    },
+
+    "newDigitalSkills": {
+      "title": "Intéréssés Par Les Nouveautés",
+      "word": "Des",
+      "styledWord": "Digital Skills",
+      "symbol": "?",
+      "form": {
+        "title1": "Restez À La Page",
+        "title2": "Dans Un Seul Click",
+        "button": "S'INSCRIRE "
+      },
+      "errors": {
+        "required": "Ce champs est obligatoire",
+        "existing": "Déja inscri"
+      },
+      "success": "inscri avec succés"
+    },
+    "intercourse": {
+      "sectionTitle": "VOTRE PARCOURS",
+
+      "title": {
+        "purple": "VICTOIRE !",
+        "turquoise": "TURQUOISE",
+        "pink": "PINK",
+        "lightBlue": "LIGHTBLUE"
+      },
+      "description": {
+        "purple": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it",
+        "turquoise": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it",
+        "pink": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it",
+        "lightBlue": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it"
+      },
+      "button": "DECOUVREZ OPUS"
+    },
+    "footer": {
+      "list1": {
+        "title": "APPRENEZ",
+        "item1": "DEVELOPPEMENT WEB",
+        "item2": "REACT JS",
+        "item3": "NODE JS",
+        "item4": "GRAPHIC DESIGN",
+        "item5": "UI UX DESIGN"
+      },
+      "list2": {
+        "title": "A PROPOS",
+        "item1": "FORMATION",
+        "item2": "A PROPOS",
+        "item3": "OPUS BUSINESS",
+        "item4": "EQUIPE",
+        "item5": "NEWSLETTER"
+      },
+      "list3": {
+        "title": "CONTACT",
+        "item1": "+216 56 99 88 25",
+        "item2": "gharbi.siwar1997@gmail.com",
+        "item3": "2 Rue Argentine immeuble integra 5eme étage Tunis"
+      },
+      "list4": {
+        "title": "COMMENT DEVENIR UN OPUSIEN ?",
+        "item1": "Vous souhaitez devenir un membre de la famille opus lab ?",
+        "item2": "REJOIGNER-NOUS"
+      }
+    }
+  },
+  "formations": {
+    "skillsDescription": {
+      "title": "EVOLUEZ VOS",
+      "styledWord": "DIGITAL SKILLS",
+      "description": "Apprenez les Skills 100% Digitales et adaptés à vos besoins avec Opus Lab",
+      "button1": "DÉVELOPPEMENT WEB",
+      "button2": "DESIGN",
+      "button3": "MARKETING",
+
+      "skillCard1": {
+        "title": "DÉVELOPPEMENT WEB",
+        "description": "Intégrez l’un des domaines les plus demandés dans le marché et commencez à apprendre les bases du développement web. ce programme est 100% adapté aux débutants, vous pouvez soit étudier en part time ou full time",
+        "heure": "40H DE SUIVI CONTENU",
+        "calendar": "FULL TIME /PART TIME",
+        "button1": "LE PROGRAMME",
+        "button2": "INSCRIPTION"
+      },
+      "skillCard2": {
+        "title": "REACT JS",
+        "description": "Intégrez l’un des domaines les plus demandés dans le marché et commencez à apprendre les bases du développement web. ce programme est 100% adapté aux débutants, vous pouvez soit étudier en part time ou full time",
+        "heure": "40H DE SUIVI CONTENU"
+      },
+      "skillCard3": {
+        "title": "NODE JS",
+        "description": "Intégrez l’un des domaines les plus demandés dans le marché et commencez à apprendre les bases du développement web. ce programme est 100% adapté aux débutants, vous pouvez soit étudier en part time ou full time",
+        "heure": "40H DE SUIVI CONTENU"
+      }
+    },
+    "trackingSystem": {
+      "title": "SYSTEME DE SUIVI CONTINU",
+      "list1": {
+        "title": "MINI TASKS AND QCM",
+        "description": "Ces mini tasks au cours de la formations aident les étudiants à valider la compréhension des concepts appris."
+      },
+      "list2": {
+        "title": "TASKS ET MINI PROJETS",
+        "description": "Après chaque séance, l’étudiant possède un mini projet à élaborer chez lui pour pratiquer tout ce qu’il a appris."
+      },
+      "list3": {
+        "title": "CHECKPOINTS",
+        "description": "Chaque semaine, l’instructeur réalise un checkpoint avec les étudiants pour suivre l’avancement des tasks."
+      },
+      "list4": {
+        "title": "ACCÈS ILLIMITÉS À L'INSTRUCTEUR",
+        "description": "L’étudiant peut contacter l’instructeur à n’importe quel moment possible s’il a besoin d’aide."
+      }
+    },
+    "payment": {
+      "title": "COMMENT JE PEUX PAYER ?",
+      "item1": "Virement bancaire à travers votre carte",
+      "item2": "Mandat minute",
+      "item3": "Sur place dans notre siège"
+    },
+    "introduction": {
+      "title1": "LANCEZ-VOUS EN ",
+      "title2": "DÉVELOPPEMENT WEB ",
+      "description": "Vous êtes un débutant et vous voulez vous déclencher dans le monde du coding ? Ce programme vous permet de commencer votre carrière en tant que développeur web et d’apprendre toutes les bases dont vous avez besoin",
+      "nbHeures": " DE SUIVI CONTINU",
+      "time": "FULL TIME / PART TIME",
+      "position": "PRESENTIEL / EN LIGNE",
+      "button1": "INSCRIPTION",
+      "button2": "VOIR LE PROGRAMME"
+    },
+    "GlowingDay": {
+      "title": "GLOWING DAY",
+      "paragraph": "Le Glowing Day est la journée de remise des certifications. Pendant cette journée, les étudiants présentent le projet final pour bien pratiquer ce qu’ils ont appris et déclencher leur carrière avec un projet complet. Les étudiants présentent leurs projet devant une jury externe pour recevoir la validation du projet et avoir la cerification.",
+
+      "infos": "15 min de présentation avec Question / Réponse",
+
+      "button": " TÉlÉCHARGER LE GUIDE"
+    },
+    "validateProject": {
+      "title": " COMMENT VALIDER MON PROJET",
+      "card1": {
+        "title": "RESPECTER LES DEADLINE",
+        "description": "Le travail continu des tasks et la réactivité avec l’instructeur et surtout le respect des deadlines"
+      },
+      "card2": {
+        "title": "TERMINER LE PROJET FINAL",
+        "description": "Suite au respect des deadline, il faut terminer tout le projet avant le Glowing Day et l’envoyer pour la pré-validation"
+      },
+      "card3": {
+        "title": "FAIRE UNE BONNE PRESENTATION",
+        "description": "La bonne présentation du projet entraîne l’augmentation de sa valeur "
+      },
+      "button": " COMMENCER L’AVENTURE"
+    }
+  },
+  "formation": {
+    "courses": {
+      "title": "VOTRE PARCOURS",
+      "button": "INSCRIPTION",
+      "salary": "la moyenne du salaire annuel d'un",
+      "link": "est de"
+    }
+  },
+  "contact": {
+    "contactOpus": {
+      "title": "CONTACT",
+      "details": {
+        "item1": {
+          "title": "adresse",
+          "description": "2 rue argentine immeuble integra 5eme etage tunis"
+        },
+        "item2": {
+          "title": "email",
+          "description": "labopus.info@gmail.com"
+        },
+        "item3": {
+          "title": "télephone",
+          "description": "+216 56 99 88 25"
+        }
+      }
+    },
+    "form": {
+      "fullName": "Nom et prénom",
+      "email": "Votre email",
+      "object": "Votre objet",
+      "message": "Votre message",
+      "submit": "Envoyer",
+      "errors": {
+        "required": "Ce champs est obligatoire",
+        "email": "Veuillez saisir une adresse email valide"
+      },
+      "success": "Email envoyé avec succées"
+    }
+  },
+
+  "team": {
+    "teamForm": {
+      "title": "DEVENIR INSTRUCTEUR",
+      "fullName": "Nom et prénom",
+      "email": "Votre email",
+      "domain": "Votre spécialité",
+      "cv": "Votre CV (Max 20 Mo)",
+      "download": "Télécharger",
+      "message": "Votre message",
+      "submit": "envoyer",
+      "errors": {
+        "required": "Ce champs est obligatoire",
+        "email": "Veuillez saisir une adresse email valide"
+      },
+      "success": "formulaire envoyé avec succés"
+    }
+  },
+  "about": {
+    "yourEvolution": {
+      "title": "VOTRE EVOLUTION.. C’EST NOTRE OBJECTIF !",
+      "description": "A travers notre système de suivi continu, nos checkpoints réguliers et votre accès illimité à l’instructeur, nous visons de concrétiser votre évolution et vous encourager à pratiquer ce que vous avez appris !",
+      "button": "INSCRIVEZ-VOUS"
+    },
+    "stepByStep": {
+      "title": "PAS A PAS VERS LA VIE PROFESSIONNELLE",
+      "description": "Nous tenons toujours à vous rapprocher de la vie professionnelle à travers nos tasks et nos conseils. Nous tenons aussi à toujours partager les bon profils avec nos partenaires clés pour des demandes d’embauche ou bien de stage",
+      "button": "INSCRIVEZ-VOUS"
+    }
+  },
+  "opusBusiness": {
+    "opusBusiness": {
+      "title": "OPUS BUSINESS",
+      "description": "Opus allows you to have programs specific to the needs and objectives of your company in Digital Skills. You can create your request in the form below and you will have a specific response to your needs",
+      "button": "SUBMIT YOUR REQUEST "
+    },
+    "businessForm": {
+      "title": "REJOIGNEZ OPUS BUSINESS",
+      "fullName": "Nom et prénom",
+      "company": "Votre entreprise",
+      "skill": "Le skill dont vous avez besoin",
+      "message": "Votre besoin spécifique",
+      "submit": "Envoyer",
+      "errors": {
+        "required": "Ce champs est obligatoire"
+      },
+      "success": "Votre message a été envoyé avec succés"
+    }
+  },
+  "teamPower": {
+    "teamPower": {
+      "title": "L'ÉQUIPE , C'EST LA FORCE!",
+      "description": "Chez Opus Lab, l’équipe c’est la force de l’entreprise. Chaque effort de chaque membre de l’équipe contribue au succès de notre Startup. Nos étudiants font partie de ce succès suite à leurs confiance ainsi que leurs témoignages !",
+      "question": "Vous voulez rejoindre la famille Opus ?",
+      "button": "INSCRIVEZ-VOUS "
+    },
+    "OurTeam": {
+      "title": "NOTRE TEAM",
+      "button": "REJOIGNEZ-NOUS"
+    }
+  },
+  "Apropos": {
+    "opusLab": {
+      "title": "OPUS LAB ",
+      "description": "Opus Lab est une école d’éducation spécialisée dans les Skills Digitales et qui assure un encadrementcontinu aux étudiants. Nous avons 4 département :",
+      "departements": {
+        "departement1": "Développement web",
+        "departement2": "Design",
+        "departement3": " Marketing Digital",
+        "departement4": " Intélligence Artificielle"
+      },
+      "button": "REJOIGNEZ-NOUS"
+    },
+    "ourValues": {
+      "title": "NOS VALEURS",
+      "values": {
+        "value1": "PASSION",
+        "value2": "PARTAGE",
+        "value3": "PROFESSIONNALISME",
+        "value4": "ENGAGEMENT"
+      }
+    },
+    "succes": {
+      "title": " NOUS VOUS GUIDONS ",
+      "title2": "VERS LE SUCCES",
+      "description": "Après la formation, vous avez un projet final à élaborer pour pratiquer tout ce que vous avez appris ! Nous vous accompagons jusqu’à ce que vous terminez le projet et le présenter devant notre jury ! ",
+      "button": "INSCRIVEZ-VOUS"
+    }
+  },
+  "register": {
+    "registerForm": {
+      "fullName": "Nom et prénom",
+      "email": "Votre email",
+      "age": "Votre age",
+      "profession": "Vous etes un",
+      "university": "Votre université / établissement",
+      "adress": "Votre adresse",
+      "tel": "Votre numéro de téléphone",
+      "formation": "La formation que vous souhaitez effectuer",
+      "interest": "Parlez nous de votre intérêt pour cette formation",
+      "submit": "PRE-INSCRIPTION",
+      "errors": {
+        "required": "Ce champs est obligatoire",
+        "email": "Veuillez saisir une adresse email valide"
+      }
+    }
+  }
+}

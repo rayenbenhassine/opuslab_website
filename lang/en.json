@@ -1,0 +1,326 @@
+{
+  "header": {
+    "item1": "Home",
+    "item2": "Training",
+    "item3": "About",
+    "item4": "Team",
+    "item5": "Opus Business",
+    "item6": "Contact",
+    "item7": "Sign-Up"
+  },
+  "accueil": {
+    "banner": {
+      "bigTitle": "WE GUIDE YOU TOWARDS YOUR",
+      "styledWord": "SUCCESS",
+      "mediumTitle": "100% DIGITAL",
+      "littleTitle": "TO A GENERATION",
+      "button": "REGISTER"
+    },
+    "evolveSkills": {
+      "title": "EVOLVE YOUR  ",
+      "styledWord": "Skills",
+
+      "rectangle1": {
+        "title": "WEB DEVELOPMENT ",
+        "nbHours": "40H OF CONTINUOUS MONITORING"
+      },
+      "rectangle2": {
+        "title": "REACT JS ",
+        "nbHours": "40H OF CONTINUOUS MONITORING"
+      },
+      "rectangle3": {
+        "title": "NODE JS ",
+        "nbHours": "55H OF CONTINUOUS MONITORING"
+      },
+      "rectangle4": {
+        "title": "GRAPHIC DESIGN",
+        "nbHours": "40H OF CONTINUOUS MONITORING"
+      },
+      "rectangle5": {
+        "title": "UI UX DESIGN",
+        "nbHours": "40H OF CONTINUOUS MONITORING"
+      },
+      "rectangle6": {
+        "title": "DIGITAL MARKETING  ",
+        "nbHours": "40H OF CONTINUOUS MONITORING"
+      },
+      "button": "DISCOVER OUR TRAINING"
+    },
+    "whyOpus": {
+      "title": "WHY OPUS",
+      "card1": {
+        "title": "WE DO EVERYTHING FOR YOUR EVOLUTION",
+        "description": "THROUGH OUR CONTINUOUS AND PERSONALIZED MONITORING SYSTEM, WE CONSTRUCT YOUR EVOLUTION"
+      },
+      "card2": {
+        "title": "WE GUIDE YOU TO SUCCESS",
+        "description": "THROUGH UNLIMITED ACCESS TO THE INSTRUCTOR YOU ALWAYS HAVE THE POSSIBILITY TO IMPROVE YOUR WORK"
+      },
+      "card3": {
+        "title": "STEP BY STEP TOWARDS LIFE",
+        "description": "WE ENCOURAGE YOU TO WORK ON PROJECTS THAT MAKE YOU EFFECTIVE AND PUSH YOU EVEN MORE TOWARDS PROFESSIONAL LIFE"
+      },
+      "button": "DISCOVER OPUS"
+    },
+    "Dragons": {
+      "title": "OUR DRAGONS",
+      "text": "We always want to bring you closer to professional life through our tasks and our advice. We also want to always share the right profiles with our key partners for hiring or internship requests",
+      "status": "GRAPHIC DESIGN INSTRUCTOR",
+      "name": "Siwar gharbi",
+      "button": " BECOME AN INSTRUCTOR"
+    },
+    "team": {
+      "title": "THE TEAM",
+      "button": "JOIN US"
+    },
+    "newDigitalSkills": {
+      "title": "Are You Interested",
+      "word": "In",
+      "styledWord": "Digital Skills",
+      "symbol": "?",
+      "form": {
+        "title": "Stay Up To Date In One Click",
+        "button": "SIGN UP "
+      }
+    },
+    "intercourse": {
+      "sectionTitle": "YOUR INTERCOURSE",
+      "title": "VICTORY",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it",
+      "button": "DISCOVER OPUS"
+    },
+    "footer": {
+      "list1": {
+        "title": "LEARN",
+        "item1": "WEB DEVELOPMENT",
+        "item2": "REACT JS",
+        "item3": "NODE JS",
+        "item4": "GRAPHIC DESIGN",
+        "item5": "UI UX DESIGN"
+      },
+      "list2": {
+        "title": "ABOUT",
+        "item1": "TRAINING",
+        "item2": "ABOUT",
+        "item3": "OPUS BUSINESS",
+        "item4": "TEAM",
+        "item5": "NEWSLETTERS"
+      },
+      "list3": {
+        "title": "CONTACT",
+        "item1": "+216 56 99 88 25",
+        "item2": "gharbi.siwar1997@gmail.com",
+        "item3": "2 street argentine integra building 5th floor tunis."
+      },
+      "list4": {
+        "title": "HOW TO BECOME AN OPUSIAN?",
+        "item1": "ARE YOU READY TO BECOME ONE OF OUR FAMILY?",
+        "item2": "JOIN US"
+      }
+    },
+    "ourOpusiens": {
+      "title": " OUR OPUCIENS",
+      "text": "Un paragraphe est une section de texte en prose vouée au développement d'un point particulier souvent au moyen de plusieurs phrases, dans la continuité du précédent et du suivant. Sur le plan typographique, le paragraphe est compris entre deux alinéas, qui s'analysent aussi comme une « ponctuation blanche ",
+      "status": "Graphic design student ",
+      "name": " INES ABIDI",
+      "button": " JOIN US"
+    },
+    "Dragans": {
+      "title": " OUR DRAGONS",
+      "text": "We always want to bring you closer to professional life through our tasks and our advice. We also want to always share the right profiles with our key partners for hiring or internship requests.",
+      "status": "GRAPHIC DESIGN INSTRUCTOR",
+      "name": " Siwar gharbi",
+      "button": "BECOME AN INSTRUCTOR"
+    }
+  },
+  "Apropos": {
+    "opusLab": {
+      "title": "OPUS LAB ",
+      "description": "Opus Lab is an education school specializing in Digital Skills and which provides continuous supervision to students. We have 4 departments:",
+      "departements": {
+        "depatrtement1": "Web development",
+        "departement2": "Design",
+        "departement3": " Digital Marketing ",
+        "departement4": " Artificial intelligence"
+      },
+      "button": "JOIN US"
+    },
+    "ourValues": {
+      "title": "OUR VALUES",
+      "values": {
+        "value1": "PASSION",
+        "value2": "SHARE",
+        "value3": "PROFESSIONALISM",
+        "value4": "COMMITMENT"
+      }
+    },
+    "succes": {
+      "title": " WE GUIDE YOU ",
+      "title2": "TO SUCCESS",
+      "description": "After the training, you have a final project to develop to practice everything you have learned! We support you until you complete the project and present it to our jury! ",
+      "button": "REGISTER"
+    }
+  },
+  "formations": {
+    "GlowingDay": {
+      "title": " GLOWING DAY",
+      "paragraph": "Glowing Day is the day for awarding certifications. During this day, students present the final project to practice well what they have learned and launch their career with a complete project. The students present their project in front of an external jury to receive the validation of the project and to have the certification.",
+      "infos": " 15 min presentation with Q&A",
+
+      "button": " TÉlÉCHARGER LE GUIDE"
+    },
+    "validateProject": {
+      "title": "HOW TO VALIDATE MY ",
+      "title1": "PROJECT",
+
+      "card1": {
+        "title": "RESPECT THE DEADLINES",
+        "description": "The continuous work of the tasks and the reactivity with the instructor and especially the respect of the deadlines"
+      },
+      "card2": {
+        "title": "COMPLETE THE FINAL PROJECT",
+        "description": "Following the respect of deadlines, the entire project must be completed before Glowing Day and sent for pre-validation"
+      },
+      "card3": {
+        "title": "MAKE A GOOD PRESENTATION",
+        "description": "The good presentation of the project increases its value"
+      },
+      "button": " START THE ADVENTURE "
+    },
+    "skillsDescription": {
+      "title": "EVOLVE YOUR",
+      "styledWord": "Digital Skills",
+      "description": "LEARN 100% DIGITAL SKILLS ADAPTED TO YOUR NEEDS WITH OPUS LAB",
+      "button1": "WEB DEVELOPMENT",
+      "button2": "DESIGN",
+      "button3": "MARKETING",
+      "skillCard1": {
+        "title": "WEB DEVELOPMENT",
+        "description": "Join one of the most demanded domains in the market and start learning the basics of web development. this program is 100% suitable for beginners, you can either study part time or full time.",
+        "heure": "40H DE SUIVI CONTENU",
+        "calendar": "FULL TIME /PART TIME",
+        "button1": "LE PROGRAMME",
+        "button2": "INSCRIPTION"
+      },
+      "skillCard2": {
+        "title": "REACT JS",
+        "description": "Join one of the most demanded domains in the market and start learning the basics of web development. this program is 100% suitable for beginners, you can either study part time or full time.",
+        "heure": "40H DE SUIVI CONTENU"
+      },
+      "skillCard3": {
+        "title": "NODE JS",
+        "description": "Join one of the most demanded domains in the market and start learning the basics of web development. this program is 100% suitable for beginners, you can either study part time or full time.",
+        "heure": "40H DE SUIVI CONTENU"
+      }
+    },
+    "trackingSystem": {
+      "title": "CONTINUOUS TRACKING SYSTEM ",
+      "list1": {
+        "title": "MINI TASKS AND MCQ",
+        "description": "These mini tasks during the training help students validate the understanding of the concepts learned."
+      },
+      "list2": {
+        "title": "TASKS AND MINI PROJECTS",
+        "description": "After each session, the student has a mini project to develop at home to practice everything he has learned."
+      },
+      "list3": {
+        "title": "CHECKPOINTS",
+        "description": "Each week, the instructor performs a checkpoint with the students to follow the progress of the tasks."
+      },
+      "list4": {
+        "title": "UNLIMITED ACCESS TO THE INSTRUCTOR",
+        "description": "The student can contact the instructor at any time possible if he needs help."
+      }
+    },
+    "payment": {
+      "title": "HOW CAN I PAY?",
+      "item1": "Bank transfer through your card",
+      "item2": "Quick mandate",
+      "item3": "On site at our headquarters"
+    }
+  },
+  "contact": {
+    "contactOpus": {
+      "title": "CONTACT",
+      "details": {
+        "item1": {
+          "title": "Address",
+          "description": "2 street argentine integra building 5th floor tunis"
+        },
+        "item2": {
+          "title": "email",
+          "description": "labopus.info@gmail.com"
+        },
+        "item3": {
+          "title": "phone number",
+          "description": "+216 56 99 88 25"
+        }
+      }
+    },
+    "form": {
+      "fullName": "First and last name",
+      "email": "Your email",
+      "object": "Your object",
+      "message": "Your message",
+      "submit": "Send"
+    }
+  },
+  "business": {
+    "businessForm": {
+      "title": "JOIN OPUS BUSINESS",
+      "form": {
+        "fullName": "Your full name",
+        "company": "Your company",
+        "skill": "The skills you need",
+        "message": "Your specific needs",
+        "submit": "Send"
+      }
+    }
+  },
+  "team": {
+    "teamForm": {
+      "title": "BECOME AN INSTRUCTOR",
+      "form": {
+        "fullName": "Your full name",
+        "email": "Your email",
+        "domain": "Your area of expertise",
+        "cv": "Your CV (Max 20 Mo)",
+        "download": "Download",
+        "message": "Your message",
+        "submit": "Send"
+      }
+    }
+  },
+  "about": {
+    "yourEvolution": {
+      "title": "YOUR EVOLUTION.. OUR OBJECTIVE !",
+      "description": "Through our continuous monitoring system, our regular checkpoints and your unlimited access to the instructor, we aim to concretize your evolution and encourage you to practice what you have learned!",
+      "button": "REGISTER"
+    },
+    "stepByStep": {
+      "title": "step by step to professional life",
+      "decription": "We always want to bring you closer to professional life through our tasks and our advice. We also want to always share the right profiles with our key partners for hiring or internship requests.",
+      "button": "REGISTER"
+    }
+  },
+  "opusBusiness": {
+    "opusBusiness": {
+      "title": "OPUS BUSINESS",
+      "description": "At Opus Lab, the team is the strength of the company. Every effort of every team member contributes to the success of our Startup. Our students are part of this success following their confidence as well as their testimonies!",
+      "question": "Want to join the Opus family?",
+      "button": "REGISTER"
+    }
+  },
+  "teamPower": {
+    "teamPower": {
+      "title": "TEAM, IS THE STRENGTH ",
+      "description": "At Opus Lab, the team is the strength of the company. Every effort of every team member contributes to the success of our Startup. Our students are part of this success following their confidence as well as their testimonies!",
+      "question": "Want to join the Opus family?",
+      "button": "REGISTER "
+    },
+    "OurTeam": {
+      "title": "OUR TEAM",
+      "button": "JOIN US"
+    }
+  }
+}

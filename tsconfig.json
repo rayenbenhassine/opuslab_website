@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "baseUrl": "."
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "next.config.js",
+    "postcss.config.js"
+  ],
+  "exclude": ["node_modules"]
+}
